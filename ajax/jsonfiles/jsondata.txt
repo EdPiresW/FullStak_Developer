@@ -1,0 +1,7 @@
+﻿{
+    "Nome":"Luisa Santos",
+    "Morada":"Rua de Todos os Santos, nº1",
+    "CPostal":"1000-100 Lisboa",
+    "Telefone":"211234567",
+    "EMail":"luisa.santos@sapo.pt"
+}
