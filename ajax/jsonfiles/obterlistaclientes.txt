@@ -1,0 +1,12 @@
+﻿[
+    {"Nome":"Luis Santos","NIF":"123456789","Morada":"Rua A, nº1","CPostal":"1000-100 Lisboa","Telefone":"211234567","EMail":"luis.santos@sapo.pt"},
+    {"Nome":"Ricardo Oliveira","NIF":"234567890","Morada":"Rua B, nº2","CPostal":"1100-110 Porto","Telefone":"211234568","EMail":"ricardo.oliveira@google.com"},
+    {"Nome":"Joana Santos","NIF":"345678901","Morada":"Rua C, nº3","CPostal":"1200-120 Braga","Telefone":"211234569","EMail":"joana.santos@outlook.com"},
+    {"Nome":"Sofia Neves","NIF":"456789012","Morada":"Rua D, nº4","CPostal":"1300-130 Aveiro","Telefone":"211234560","EMail":"sofia.neves@gmail.com"},
+    {"Nome":"Rita Alves","NIF":"567890123","Morada":"Rua E, nº5","CPostal":"1400-140 Figueira da Foz","Telefone":"211234561","EMail":"rita.alves@sapo.pt"},
+    {"Nome":"Rita Alves","NIF":"567890123","Morada":"Rua E, nº5","CPostal":"1400-140 Figueira da Foz","Telefone":"211234561","EMail":"rita.alves@sapo.pt"},
+    {"Nome":"João Sousa","NIF":"678901234","Morada":"Rua F, nº6","CPostal":"1500-150 Évora","Telefone":"211234562","EMail":"joao.sousa@google.com"},
+    {"Nome":"Rita Alves","NIF":"567890123","Morada":"Rua E, nº5","CPostal":"1400-140 Figueira da Foz","Telefone":"211234561","EMail":"rita.alves@sapo.pt"},
+    {"Nome":"Rita Alves","NIF":"567890123","Morada":"Rua E, nº5","CPostal":"1400-140 Figueira da Foz","Telefone":"211234561","EMail":"rita.alves@sapo.pt"}
+
+]

@@ -1,0 +1,23 @@
+function lerDadosDoServidor() {
+    var ficheiro;
+    var resposta;
+    
+    ficheiro=new XMLHttpRequest();
+    ficheiro.onreadystatechange=function () {
+        if(this.readyState==4 && this.status==200){
+            resposta=this.responseText;
+            preencherInputs(JSON.parse(resposta));
+            //ira chamar a funcão que vai preencher os dados nas input boxes
+        } 
+    }
+    ficheiro.open("GET", "http://www.testeajax.pt/jsondata.txt", true);
+    ficheiro.send();
+}
+
+function preencherInputs(resposta) {
+    document.getElementById("nome").value=resposta.Nome;
+    document.getElementById("morada").value=resposta.Morada;
+    document.getElementById("cpost").value=resposta.CodigoPostal;
+    document.getElementById("telefone").value=resposta.Telefone;
+    document.getElementById("email").value=resposta.EMail;  
+}
