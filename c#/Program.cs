@@ -6,9 +6,12 @@ namespace MyApplication
 	class Car
 	{	
         public string model;
+        public int year;
         public Car()
         {
             model = "Mustang";
+            year = 1960; 
+
         }
 	  	static void MyMethod()
 	   	{
@@ -21,6 +24,7 @@ namespace MyApplication
 	    	MyMethod();
             Car Ford = new Car();
             Console.WriteLine(Ford.model);
+            Console.WriteLine(Ford.year);
 	  	}
 	}	  
 }
