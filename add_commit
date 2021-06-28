@@ -5,4 +5,6 @@ git checkout update
 git add --all
 git status
 git commit -m "update"
-git merge oringin update
+git checkout master
+git merge update
+git push
