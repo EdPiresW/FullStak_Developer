@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/edpires_v1/.dotnet/store/|arch|/|tfm|",
+      "/home/edpires_v1/.nuget/packages"
+    ]
+  }
+}

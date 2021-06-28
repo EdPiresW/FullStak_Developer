@@ -1,0 +1,16 @@
+/home/edpires_v1/talenter/FullStak_Developer/c#/bin/Debug/net5.0/c#
+/home/edpires_v1/talenter/FullStak_Developer/c#/bin/Debug/net5.0/c#.deps.json
+/home/edpires_v1/talenter/FullStak_Developer/c#/bin/Debug/net5.0/c#.runtimeconfig.json
+/home/edpires_v1/talenter/FullStak_Developer/c#/bin/Debug/net5.0/c#.runtimeconfig.dev.json
+/home/edpires_v1/talenter/FullStak_Developer/c#/bin/Debug/net5.0/c#.dll
+/home/edpires_v1/talenter/FullStak_Developer/c#/bin/Debug/net5.0/ref/c#.dll
+/home/edpires_v1/talenter/FullStak_Developer/c#/bin/Debug/net5.0/c#.pdb
+/home/edpires_v1/talenter/FullStak_Developer/c#/obj/Debug/net5.0/c#.csproj.AssemblyReference.cache
+/home/edpires_v1/talenter/FullStak_Developer/c#/obj/Debug/net5.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/edpires_v1/talenter/FullStak_Developer/c#/obj/Debug/net5.0/c#.AssemblyInfoInputs.cache
+/home/edpires_v1/talenter/FullStak_Developer/c#/obj/Debug/net5.0/c#.AssemblyInfo.cs
+/home/edpires_v1/talenter/FullStak_Developer/c#/obj/Debug/net5.0/c#.csproj.CoreCompileInputs.cache
+/home/edpires_v1/talenter/FullStak_Developer/c#/obj/Debug/net5.0/c#.dll
+/home/edpires_v1/talenter/FullStak_Developer/c#/obj/Debug/net5.0/ref/c#.dll
+/home/edpires_v1/talenter/FullStak_Developer/c#/obj/Debug/net5.0/c#.pdb
+/home/edpires_v1/talenter/FullStak_Developer/c#/obj/Debug/net5.0/c#.genruntimeconfig.cache

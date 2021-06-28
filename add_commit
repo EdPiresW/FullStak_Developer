@@ -1,0 +1,8 @@
+#!/bin/bash
+
+git status
+git checkout update
+git add --all
+git status
+git commit -m "update"
+git merge master update
