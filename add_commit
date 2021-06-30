@@ -1,7 +1,7 @@
 #!/bin/bash
 
 git status
-git checkout update
+git checkout update2
 git add --all
 git status
 git commit -m "update"
